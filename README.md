@@ -1,2 +1,5 @@
 To jest plik README
-To jest nowa funkcjonalność
+To jest nowa funkcjonalno
+
+
+BLAGAM
